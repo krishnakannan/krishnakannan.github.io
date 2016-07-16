@@ -3,11 +3,14 @@ main:
   - title: "Profile"
     url:
 
-  - title: "Mozilla-GSOC16"
+  - title: "GSOC16"
+    url: /Mozilla_GSOC/
+
+  - title: "Mozilla Contributions"
     url: /Mozilla/
 
   - title: "Projects"
     url:
 
   - title: "Other Contributions"
-    url: 
+    url:
