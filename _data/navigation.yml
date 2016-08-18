@@ -3,8 +3,8 @@ main:
   - title: "Profile"
     url:
 
-  - title: "GSOC16"
-    url: /Mozilla_GSOC/
+  - title: "GSOC"
+    url: /GSOC/
 
   - title: "Mozilla Contributions"
     url: /Mozilla/
