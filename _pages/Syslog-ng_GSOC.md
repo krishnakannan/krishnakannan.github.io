@@ -5,7 +5,7 @@ type: posts
 author_profile: true
 excerpt: "Google Summer of Code 2015"
 sitemap: false
-permalink: /Syslog-ng_GSOC/
+permalink: /GSOC/15/
 ---
 
 

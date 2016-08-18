@@ -9,13 +9,13 @@ permalink: /GSOC/
 ---
 
 <br><br>
-[**Google Summer of Code - 2016 - Mozilla**](/Mozilla_GSOC/)
+[**Google Summer of Code - 2016 - Mozilla**](/GSOC/16/)
 
 Weekly updates and contribution to Mozilla as a part of Google Summer of Code 2016
 
 <br>
 
-[**Google Summer of Code - 2015 - Syslog-ng**](/Syslog-ng_GSOC/)
+[**Google Summer of Code - 2015 - Syslog-ng**](/GSOC/15/)
 
 Contributions to Syslog-ng as a part of Google Summer of Code 2015
 

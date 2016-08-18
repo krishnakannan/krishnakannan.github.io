@@ -3,9 +3,9 @@ title: "Google Summer of Code 16"
 layout: archive
 type: posts
 author_profile: true
-excerpt: "Page not found. Your pixels are in another canvas."
+excerpt: "Summary of Google Summer of Code 2016 - Mozilla"
 sitemap: false
-permalink: /Mozilla_GSOC/
+permalink: /GSOC/16/
 ---
 
 
