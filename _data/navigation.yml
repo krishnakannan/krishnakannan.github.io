@@ -3,10 +3,13 @@ main:
   - title: "Profile"
     url:
 
+  - title: "Posts"
+    url:
+
   - title: "GSOC"
     url: /GSOC/
 
-  - title: "Mozilla Contributions"
+  - title: "Mozilla"
     url: /Mozilla/
 
   - title: "Projects"
