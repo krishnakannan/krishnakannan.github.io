@@ -5,9 +5,9 @@
 #
 title: Krishna Kannan
 email: krishna.kay@gmail.com
-description: My techblog
+description: Welcome - Krishna Kannan
 url: http://krishnakannan.com
-keywords: ["Proramming", "Java", "Android", "Data structures", "Algorithms", "Distributed Systems", "Distributed Architectures", "Problem Solving"]
+keywords: ["Proramming", "Java", "Android", "Data structures", "Algorithms", "Distributed Systems", "Distributed Architectures", "Problem Solving", "Raspberry Pi", "Cluster", "Cluster Computing", "RaspberryPi", "RaspberryPi Cluster", "RPi"]
 
 #
 ###################################
@@ -48,7 +48,7 @@ owner:
   name: Krishna Kannan
   avatar: 
   job: "Software Engineer"
-  bio: "Passionate coder. Opensource Contributor. Working as Research Engineer in Singapore"
+  bio: "Passionate Coder. Opensource Contributor. Working as Research Engineer in Singapore"
   email: krishna.kay@gmail.com
   disqus-shortname: #Krish'sBlog
   twitter:  #username
