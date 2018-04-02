@@ -1,0 +1,26 @@
+# careers section data
+# if you don't have language feature(language.yml is empty), ignore "i18n" items
+- name: NUS
+  link: 
+  date: Oct 2016 - <i class="fa fa-clock-o" aria-hidden="true" title="Until Now"></i>
+  job: Research Engineer
+
+- name: Mozilla
+  link: 
+  date: Mar 2016 - Dec 2016
+  job: Contributor (GSOC 16)
+  
+- name: Syslog-ng
+  link: 
+  date: Mar 2015 - Oct 2015
+  job: Contributor (GSOC 15)
+
+- name: Seekr
+  link: 
+  date: Jan 2014 - Dec 2014
+  job: Software Engineer
+
+- name: Verizon India
+  link:
+  date: Aug 2012 - Dec 2013
+  job: Software Engineer

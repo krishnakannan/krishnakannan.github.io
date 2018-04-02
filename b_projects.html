@@ -1,0 +1,37 @@
+---
+layout: projects_page
+title: Projects
+permalink: /projects/
+---
+<h2><span data-i18n="skills.my_skills">Ongoing Projects</span></h2>
+<br />
+{% for project in site.data.index.ongoingProjects %}
+    <div class="row">
+            <div class="col">
+                <h3 style="margin: 0">{{ project.name }}</h3>
+                <p style="margin: 0">{{ project.descr }}</p>                
+                <br />
+            </div>
+    </div>
+{% endfor %}
+
+<br />
+
+<h2><span data-i18n="skills.my_skills">Completed Projects</span></h2>
+<br />
+{% for project in site.data.index.detailedProjects %}
+    <div class="row">
+            <div class="col">
+                <h3 style="margin: 0">{{ project.name }}</h3>
+                <p style="margin: 0">{{ project.descr }}</p>
+
+                {% if project.github %}
+                <a href="{{ project.github }} "><i class="fa fa-fw fa-github"></i>GitHub</a>
+                {% endif %}
+                {% if project.website %}
+                <a href="{{ project.website }} "><i class="fa fa-fw fa-home"></i>Homepage</a>
+                {% endif %}
+                <br />
+            </div>
+    </div>
+{% endfor %}

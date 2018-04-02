@@ -1,0 +1,11 @@
+- name: Implementation of various “Distributed Data Structures”
+  descr: "Currently implementing several datastructures like Distributed Hash Tables amd Distributed Tries."  
+  website:
+
+- name: Peer to Peer Distributed Wikipedia-Dump Parser
+  descr: "Developing a distributed parser which processes several million files from wikipedia dump and outputs an “Edge List” (About 200 million). Tuning the parser to be memory efficient, fault tolerant running out of a Raspberry Pi Cluster"
+  github:
+  
+- name: A Simple Distributed Website Crawler
+  descr: "A Simple load balanced website crawler using graph algorithms"  
+  github: 

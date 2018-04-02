@@ -1,0 +1,63 @@
+---
+layout: page
+title:  Algorithms & coding
+permalink: /algoritms-solutions/
+---
+
+<div class="tag-list">
+<br />
+
+{% for cat in site.categories %}
+    {% if cat contains "Algorithms" %}
+  <div class="tag-group">
+    {% capture cat_name %}{{ cat | first }}{% endcapture %}
+    
+    {% for post in site.categories[cat_name] %}
+      <h5 class="tag-group-title" id="{{ cat_name | slugize }}">
+      
+          <article class="tag-group-title">
+              <a class="tag-group-title" href="{{ site.url }}{{ post.url }}">{{post.title}}</a>
+              <br />
+              <br />
+<!--
+                <ul>
+                    <li></li>
+                </ul>
+-->
+                <br />
+
+        </article>
+      
+      </h5>    
+    {% endfor %}
+  </div>
+    {% endif %}
+{% endfor %}
+</div>
+
+<!--
+<div class="tag-list">
+
+  <div class="tag-group">
+      
+    <ul>
+        <li>
+            <h5 class="tag-group-title" id="leetcode">
+                <article class="tag-item">
+                    
+                       <a class="post-cat" href="{{ site.url }}/algoritms-solutions/leetcode-solutions.html">LeetCode Solutions                        </a> 
+                    
+                </article>
+            </h5>
+        </li>
+      <br />
+      <br />
+        <li><h5 class="tag-group-title" id="gfg">Geeks For Geeks Solutions</h5></li>
+      <br />
+      <br />
+        <li><h5 class="tag-group-title" id="hackerrank">Hackerrank Solutions</h5></li>
+    </ul>
+  </div>
+    
+</div>
+-->

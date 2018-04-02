@@ -1,0 +1,6 @@
+# skills section data
+
+label: Ability
+id : cs
+aspects: Systems Design,C,Java ,Distributed Systems,Android,Algorithms
+percentage: 50, 50, 85, 60, 75, 90

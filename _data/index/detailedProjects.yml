@@ -1,0 +1,43 @@
+- name: RaspberryPi Cluster
+  descr: "Built a 5 node RaspberryPi cluster and configured networking and architecture"  
+  website:
+  
+
+- name: Firefox - FatFennec - Hyphenation Dictionaries
+  descr: "Worked on the project “FatFennec” as part of Google Summer of Code ’16. “Fatfennec” is the alias for an ongoing project to have Fennec, code name for the mobile version of Firefox, use fewer bytes. Developed and shipped code on excluding certain assets like “Localisation files” and “Hyphenation Dictionaries” from “Firefox for Android” to reduce the APK Size and download them at runtime. Worked on implementation of helpers for scheduling downloads of assets in “Firefox for Android”."  
+  website: /GSOC/16/Report.html
+
+- name: Distributed Maze Game
+  descr: "A peer-to-peer distributed game in which multiple players navigate through a maze to collect coins. In this project, consistency is more important than availability and we use “Primary based protocol”. The project handles leader election among peers, strong consistency and fault tolerance."
+  #image: pong.png
+  github: https://github.com/krishnakannan/DistributedMazeGame
+  
+- name: Syslog-ng Monitor for Android
+  descr: "Developed a native android application “Syslog-ng Monitor for Android” for the Syslog-ng Open Source Community as a part of Google Summer of Code ’15. With the application a Syslog-ng Admin can monitor their servers. The application has features like saving multiple Syslog-ng instance's details, Client certificate management, Command execution, Secure Transport of certificate from mobile to server. Developed a Test project for the “Syslog-ng Monitor for Android” containing JUnit Tests and Blackbox UI Tests with Robotium Test Automation Framework."  
+  github: https://github.com/krishnakannan/Syslog-ng-Monitor-Android
+  
+  
+- name: Determination of Strength between the Communities in Social Graph
+  descr: "This project aims to explore methods to accurately detect communities and assess the strength between them. Typical collective inference techniques treat network connections homogeneously, inadequately representing the multi-faced relationships that occur in reality. As such, it would be better if one can leverage latent social network information for accurate classification; Which means determining the profile of a node based on the information of its network as opposed to the information the node provides us with."  
+  github:
+  
+  
+- name: Hire for a long haul - Analytics Project
+  descr: "In this project we made an effort to provide solutions that would analytically help the employer identify potentially ‘best fit’ candidates, not just for their skill set and the requirements of the position but also for the expected longevity from the employee. The project aims to provide a tool to make best hiring decisions to run a company efficiently and bring down the attrition rates."
+  github:
+  
+  
+- name: Event Recommendation System
+  descr: "Existing Event based social networking platforms have gained a large traction because of the ability to connect people based on the events they have attended. Users are not able to get event invitations in which they were really interested in. Therefore we have considered the important features of EBSN such as event lifetime, co-participation, locality and sparsity in building our model to solve the issues in existing Events Recommender Engines. The proposed solution follows semi-Lazy Mining Paradigm to recommend events to the users. kNN search is performed initially and classification models were built on the resulting events."
+  github:
+  
+  
+- name: Vulnerability Scanner
+  descr: "This scanner involved crawling the webpages followed by generating and injecting the payload. As a final step automated verification scripts are generated. This scanner aims to find all the vulnerabilities related to Server Side Code Injection which includes all variants of Local file inclusion, remote file inclusion and PHP code injection attacks."
+  github:
+  
+  
+- name: Flexible Deterministic Packet Marking
+  descr: "A defense system with the ability to find out the real source of malicious packets that traverse through the network. It adopts a variable mark length strategy to make it compatible to different network environments. It also adaptively changes it’s marking rate based on the load of the participating router by a variable rate marking scheme."
+  github:
+  
